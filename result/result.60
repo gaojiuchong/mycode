@@ -1,0 +1,992 @@
+2014-01-01	samll	krank	10.49
+2014-01-01	large	krank	4.50
+2014-01-01	mid	krank	-2.48
+2014-01-01	all cap	krank	11.04
+2014-01-01	samll	quality	8.80
+2014-01-01	large	quality	5.07
+2014-01-01	mid	quality	0.59
+2014-01-01	all cap	quality	8.37
+2014-01-01	samll	value	17.49
+2014-01-01	large	value	7.10
+2014-01-01	mid	value	2.23
+2014-01-01	all cap	value	17.61
+2014-01-01	samll	momentum	26.13
+2014-01-01	large	momentum	6.22
+2014-01-01	mid	momentum	4.15
+2014-01-01	all cap	momentum	27.36
+2014-01-01	samll	growth	22.61
+2014-01-01	large	growth	6.59
+2014-01-01	mid	growth	2.66
+2014-01-01	all cap	growth	19.77
+2014-01-01	samll	krank+quality	8.00
+2014-01-01	large	krank+quality	4.76
+2014-01-01	mid	krank+quality	-0.00
+2014-01-01	all cap	krank+quality	9.66
+2014-01-01	samll	krank+value	17.10
+2014-01-01	large	krank+value	5.40
+2014-01-01	mid	krank+value	1.81
+2014-01-01	all cap	krank+value	16.90
+2014-01-01	samll	krank+momentum	16.96
+2014-01-01	large	krank+momentum	4.11
+2014-01-01	mid	krank+momentum	-2.17
+2014-01-01	all cap	krank+momentum	15.50
+2014-01-01	samll	krank+growth	9.64
+2014-01-01	large	krank+growth	4.23
+2014-01-01	mid	krank+growth	1.75
+2014-01-01	all cap	krank+growth	7.69
+2014-01-01	samll	quality+value	22.07
+2014-01-01	large	quality+value	6.68
+2014-01-01	mid	quality+value	4.08
+2014-01-01	all cap	quality+value	22.17
+2014-01-01	samll	quality+momentum	13.72
+2014-01-01	large	quality+momentum	5.40
+2014-01-01	mid	quality+momentum	-0.98
+2014-01-01	all cap	quality+momentum	13.62
+2014-01-01	samll	quality+growth	14.49
+2014-01-01	large	quality+growth	6.29
+2014-01-01	mid	quality+growth	2.16
+2014-01-01	all cap	quality+growth	14.08
+2014-01-01	samll	value+momentum	12.60
+2014-01-01	large	value+momentum	7.77
+2014-01-01	mid	value+momentum	5.11
+2014-01-01	all cap	value+momentum	11.31
+2014-01-01	samll	value+growth	10.83
+2014-01-01	large	value+growth	7.67
+2014-01-01	mid	value+growth	3.33
+2014-01-01	all cap	value+growth	11.76
+2014-01-01	samll	momentum+growth	20.13
+2014-01-01	large	momentum+growth	6.26
+2014-01-01	mid	momentum+growth	4.22
+2014-01-01	all cap	momentum+growth	19.43
+2014-01-01	samll	krank+quality+value	15.41
+2014-01-01	large	krank+quality+value	4.61
+2014-01-01	mid	krank+quality+value	1.56
+2014-01-01	all cap	krank+quality+value	16.79
+2014-01-01	samll	krank+quality+momentum	11.20
+2014-01-01	large	krank+quality+momentum	4.52
+2014-01-01	mid	krank+quality+momentum	-1.84
+2014-01-01	all cap	krank+quality+momentum	10.00
+2014-01-01	samll	krank+quality+growth	10.71
+2014-01-01	large	krank+quality+growth	5.69
+2014-01-01	mid	krank+quality+growth	0.87
+2014-01-01	all cap	krank+quality+growth	12.13
+2014-01-01	samll	krank+value+momentum	17.75
+2014-01-01	large	krank+value+momentum	5.51
+2014-01-01	mid	krank+value+momentum	0.88
+2014-01-01	all cap	krank+value+momentum	15.74
+2014-01-01	samll	krank+value+growth	16.53
+2014-01-01	large	krank+value+growth	5.74
+2014-01-01	mid	krank+value+growth	4.78
+2014-01-01	all cap	krank+value+growth	16.14
+2014-01-01	samll	krank+momentum+growth	11.65
+2014-01-01	large	krank+momentum+growth	4.80
+2014-01-01	mid	krank+momentum+growth	1.02
+2014-01-01	all cap	krank+momentum+growth	9.49
+2014-01-01	samll	quality+value+momentum	17.27
+2014-01-01	large	quality+value+momentum	8.16
+2014-01-01	mid	quality+value+momentum	1.33
+2014-01-01	all cap	quality+value+momentum	15.11
+2014-01-01	samll	quality+value+growth	18.38
+2014-01-01	large	quality+value+growth	6.96
+2014-01-01	mid	quality+value+growth	4.30
+2014-01-01	all cap	quality+value+growth	17.68
+2014-01-01	samll	quality+momentum+growth	16.10
+2014-01-01	large	quality+momentum+growth	6.67
+2014-01-01	mid	quality+momentum+growth	0.85
+2014-01-01	all cap	quality+momentum+growth	16.61
+2014-01-01	samll	value+momentum+growth	22.27
+2014-01-01	large	value+momentum+growth	8.17
+2014-01-01	mid	value+momentum+growth	3.51
+2014-01-01	all cap	value+momentum+growth	22.52
+2014-01-01	samll	krank+quality+value+momentum	15.08
+2014-01-01	large	krank+quality+value+momentum	5.37
+2014-01-01	mid	krank+quality+value+momentum	-0.03
+2014-01-01	all cap	krank+quality+value+momentum	13.81
+2014-01-01	samll	krank+quality+value+growth	15.18
+2014-01-01	large	krank+quality+value+growth	6.17
+2014-01-01	mid	krank+quality+value+growth	3.27
+2014-01-01	all cap	krank+quality+value+growth	13.11
+2014-01-01	samll	krank+quality+momentum+growth	19.33
+2014-01-01	large	krank+quality+momentum+growth	5.52
+2014-01-01	mid	krank+quality+momentum+growth	-1.05
+2014-01-01	all cap	krank+quality+momentum+growth	19.90
+2014-01-01	samll	krank+value+momentum+growth	13.41
+2014-01-01	large	krank+value+momentum+growth	6.59
+2014-01-01	mid	krank+value+momentum+growth	3.11
+2014-01-01	all cap	krank+value+momentum+growth	14.02
+2014-01-01	samll	quality+value+momentum+growth	14.20
+2014-01-01	large	quality+value+momentum+growth	8.33
+2014-01-01	mid	quality+value+momentum+growth	3.35
+2014-01-01	all cap	quality+value+momentum+growth	13.39
+2014-01-01	samll	krank+quality+value+momentum+growth	13.77
+2014-01-01	large	krank+quality+value+momentum+growth	6.52
+2014-01-01	mid	krank+quality+value+momentum+growth	1.15
+2014-01-01	all cap	krank+quality+value+momentum+growth	14.36
+2014-04-01	samll	krank	-7.41
+2014-04-01	large	krank	3.05
+2014-04-01	mid	krank	6.09
+2014-04-01	all cap	krank	-7.37
+2014-04-01	samll	quality	-6.43
+2014-04-01	large	quality	5.37
+2014-04-01	mid	quality	0.64
+2014-04-01	all cap	quality	-5.53
+2014-04-01	samll	value	-8.11
+2014-04-01	large	value	5.19
+2014-04-01	mid	value	6.36
+2014-04-01	all cap	value	-7.03
+2014-04-01	samll	momentum	-10.61
+2014-04-01	large	momentum	5.19
+2014-04-01	mid	momentum	-0.29
+2014-04-01	all cap	momentum	-7.42
+2014-04-01	samll	growth	-9.82
+2014-04-01	large	growth	5.69
+2014-04-01	mid	growth	2.27
+2014-04-01	all cap	growth	-9.90
+2014-04-01	samll	krank+quality	-5.22
+2014-04-01	large	krank+quality	4.12
+2014-04-01	mid	krank+quality	5.00
+2014-04-01	all cap	krank+quality	-4.70
+2014-04-01	samll	krank+value	2.35
+2014-04-01	large	krank+value	5.75
+2014-04-01	mid	krank+value	4.43
+2014-04-01	all cap	krank+value	1.35
+2014-04-01	samll	krank+momentum	-6.72
+2014-04-01	large	krank+momentum	3.10
+2014-04-01	mid	krank+momentum	4.36
+2014-04-01	all cap	krank+momentum	-6.19
+2014-04-01	samll	krank+growth	-11.39
+2014-04-01	large	krank+growth	4.05
+2014-04-01	mid	krank+growth	2.24
+2014-04-01	all cap	krank+growth	-11.19
+2014-04-01	samll	quality+value	3.51
+2014-04-01	large	quality+value	5.46
+2014-04-01	mid	quality+value	3.28
+2014-04-01	all cap	quality+value	4.39
+2014-04-01	samll	quality+momentum	-9.14
+2014-04-01	large	quality+momentum	2.95
+2014-04-01	mid	quality+momentum	2.94
+2014-04-01	all cap	quality+momentum	-9.13
+2014-04-01	samll	quality+growth	-4.02
+2014-04-01	large	quality+growth	3.35
+2014-04-01	mid	quality+growth	3.98
+2014-04-01	all cap	quality+growth	-3.89
+2014-04-01	samll	value+momentum	-10.80
+2014-04-01	large	value+momentum	4.33
+2014-04-01	mid	value+momentum	4.36
+2014-04-01	all cap	value+momentum	-9.14
+2014-04-01	samll	value+growth	-4.74
+2014-04-01	large	value+growth	6.16
+2014-04-01	mid	value+growth	2.69
+2014-04-01	all cap	value+growth	-3.27
+2014-04-01	samll	momentum+growth	-12.71
+2014-04-01	large	momentum+growth	4.59
+2014-04-01	mid	momentum+growth	3.01
+2014-04-01	all cap	momentum+growth	-12.65
+2014-04-01	samll	krank+quality+value	1.85
+2014-04-01	large	krank+quality+value	5.26
+2014-04-01	mid	krank+quality+value	3.58
+2014-04-01	all cap	krank+quality+value	1.85
+2014-04-01	samll	krank+quality+momentum	-10.75
+2014-04-01	large	krank+quality+momentum	3.31
+2014-04-01	mid	krank+quality+momentum	3.46
+2014-04-01	all cap	krank+quality+momentum	-9.74
+2014-04-01	samll	krank+quality+growth	-10.07
+2014-04-01	large	krank+quality+growth	3.17
+2014-04-01	mid	krank+quality+growth	3.13
+2014-04-01	all cap	krank+quality+growth	-10.07
+2014-04-01	samll	krank+value+momentum	-4.49
+2014-04-01	large	krank+value+momentum	4.40
+2014-04-01	mid	krank+value+momentum	3.91
+2014-04-01	all cap	krank+value+momentum	-4.23
+2014-04-01	samll	krank+value+growth	-6.99
+2014-04-01	large	krank+value+growth	4.68
+2014-04-01	mid	krank+value+growth	2.61
+2014-04-01	all cap	krank+value+growth	-6.83
+2014-04-01	samll	krank+momentum+growth	-14.05
+2014-04-01	large	krank+momentum+growth	3.41
+2014-04-01	mid	krank+momentum+growth	0.65
+2014-04-01	all cap	krank+momentum+growth	-13.02
+2014-04-01	samll	quality+value+momentum	-3.98
+2014-04-01	large	quality+value+momentum	4.68
+2014-04-01	mid	quality+value+momentum	4.47
+2014-04-01	all cap	quality+value+momentum	-3.97
+2014-04-01	samll	quality+value+growth	-5.93
+2014-04-01	large	quality+value+growth	5.24
+2014-04-01	mid	quality+value+growth	3.96
+2014-04-01	all cap	quality+value+growth	-5.37
+2014-04-01	samll	quality+momentum+growth	-12.13
+2014-04-01	large	quality+momentum+growth	3.74
+2014-04-01	mid	quality+momentum+growth	2.48
+2014-04-01	all cap	quality+momentum+growth	-11.64
+2014-04-01	samll	value+momentum+growth	-11.12
+2014-04-01	large	value+momentum+growth	4.89
+2014-04-01	mid	value+momentum+growth	2.10
+2014-04-01	all cap	value+momentum+growth	-10.08
+2014-04-01	samll	krank+quality+value+momentum	-8.52
+2014-04-01	large	krank+quality+value+momentum	4.92
+2014-04-01	mid	krank+quality+value+momentum	4.84
+2014-04-01	all cap	krank+quality+value+momentum	-7.51
+2014-04-01	samll	krank+quality+value+growth	-5.67
+2014-04-01	large	krank+quality+value+growth	4.30
+2014-04-01	mid	krank+quality+value+growth	3.80
+2014-04-01	all cap	krank+quality+value+growth	-5.57
+2014-04-01	samll	krank+quality+momentum+growth	-13.60
+2014-04-01	large	krank+quality+momentum+growth	3.65
+2014-04-01	mid	krank+quality+momentum+growth	4.52
+2014-04-01	all cap	krank+quality+momentum+growth	-12.64
+2014-04-01	samll	krank+value+momentum+growth	-8.08
+2014-04-01	large	krank+value+momentum+growth	4.62
+2014-04-01	mid	krank+value+momentum+growth	3.12
+2014-04-01	all cap	krank+value+momentum+growth	-7.90
+2014-04-01	samll	quality+value+momentum+growth	-8.72
+2014-04-01	large	quality+value+momentum+growth	5.35
+2014-04-01	mid	quality+value+momentum+growth	3.24
+2014-04-01	all cap	quality+value+momentum+growth	-8.06
+2014-04-01	samll	krank+quality+value+momentum+growth	-7.96
+2014-04-01	large	krank+quality+value+momentum+growth	4.09
+2014-04-01	mid	krank+quality+value+momentum+growth	3.36
+2014-04-01	all cap	krank+quality+value+momentum+growth	-6.70
+2014-07-01	samll	krank	-13.35
+2014-07-01	large	krank	-3.55
+2014-07-01	mid	krank	-9.04
+2014-07-01	all cap	krank	-14.95
+2014-07-01	samll	quality	-7.92
+2014-07-01	large	quality	0.80
+2014-07-01	mid	quality	-6.96
+2014-07-01	all cap	quality	-9.00
+2014-07-01	samll	value	-18.49
+2014-07-01	large	value	-3.65
+2014-07-01	mid	value	-6.95
+2014-07-01	all cap	value	-17.53
+2014-07-01	samll	momentum	-17.86
+2014-07-01	large	momentum	-3.11
+2014-07-01	mid	momentum	-10.48
+2014-07-01	all cap	momentum	-15.60
+2014-07-01	samll	growth	-15.65
+2014-07-01	large	growth	-3.03
+2014-07-01	mid	growth	-6.72
+2014-07-01	all cap	growth	-14.89
+2014-07-01	samll	krank+quality	-11.18
+2014-07-01	large	krank+quality	-2.63
+2014-07-01	mid	krank+quality	-7.94
+2014-07-01	all cap	krank+quality	-12.06
+2014-07-01	samll	krank+value	-14.99
+2014-07-01	large	krank+value	-2.08
+2014-07-01	mid	krank+value	-8.47
+2014-07-01	all cap	krank+value	-14.58
+2014-07-01	samll	krank+momentum	-14.06
+2014-07-01	large	krank+momentum	-3.14
+2014-07-01	mid	krank+momentum	-9.05
+2014-07-01	all cap	krank+momentum	-14.82
+2014-07-01	samll	krank+growth	-15.26
+2014-07-01	large	krank+growth	-2.52
+2014-07-01	mid	krank+growth	-9.29
+2014-07-01	all cap	krank+growth	-14.19
+2014-07-01	samll	quality+value	-7.98
+2014-07-01	large	quality+value	-2.73
+2014-07-01	mid	quality+value	-8.00
+2014-07-01	all cap	quality+value	-6.83
+2014-07-01	samll	quality+momentum	-9.70
+2014-07-01	large	quality+momentum	-2.30
+2014-07-01	mid	quality+momentum	-6.50
+2014-07-01	all cap	quality+momentum	-10.67
+2014-07-01	samll	quality+growth	-11.50
+2014-07-01	large	quality+growth	-0.75
+2014-07-01	mid	quality+growth	-8.35
+2014-07-01	all cap	quality+growth	-11.34
+2014-07-01	samll	value+momentum	-15.00
+2014-07-01	large	value+momentum	-2.93
+2014-07-01	mid	value+momentum	-8.13
+2014-07-01	all cap	value+momentum	-14.21
+2014-07-01	samll	value+growth	-17.02
+2014-07-01	large	value+growth	-2.69
+2014-07-01	mid	value+growth	-7.34
+2014-07-01	all cap	value+growth	-18.15
+2014-07-01	samll	momentum+growth	-20.50
+2014-07-01	large	momentum+growth	-4.04
+2014-07-01	mid	momentum+growth	-7.33
+2014-07-01	all cap	momentum+growth	-18.01
+2014-07-01	samll	krank+quality+value	-13.01
+2014-07-01	large	krank+quality+value	-1.89
+2014-07-01	mid	krank+quality+value	-9.06
+2014-07-01	all cap	krank+quality+value	-11.88
+2014-07-01	samll	krank+quality+momentum	-10.38
+2014-07-01	large	krank+quality+momentum	-3.85
+2014-07-01	mid	krank+quality+momentum	-8.91
+2014-07-01	all cap	krank+quality+momentum	-10.25
+2014-07-01	samll	krank+quality+growth	-11.16
+2014-07-01	large	krank+quality+growth	-2.25
+2014-07-01	mid	krank+quality+growth	-8.95
+2014-07-01	all cap	krank+quality+growth	-12.71
+2014-07-01	samll	krank+value+momentum	-14.65
+2014-07-01	large	krank+value+momentum	-3.25
+2014-07-01	mid	krank+value+momentum	-8.72
+2014-07-01	all cap	krank+value+momentum	-14.22
+2014-07-01	samll	krank+value+growth	-12.09
+2014-07-01	large	krank+value+growth	-2.22
+2014-07-01	mid	krank+value+growth	-9.87
+2014-07-01	all cap	krank+value+growth	-12.58
+2014-07-01	samll	krank+momentum+growth	-16.35
+2014-07-01	large	krank+momentum+growth	-3.62
+2014-07-01	mid	krank+momentum+growth	-8.58
+2014-07-01	all cap	krank+momentum+growth	-16.08
+2014-07-01	samll	quality+value+momentum	-13.30
+2014-07-01	large	quality+value+momentum	-2.84
+2014-07-01	mid	quality+value+momentum	-7.78
+2014-07-01	all cap	quality+value+momentum	-12.43
+2014-07-01	samll	quality+value+growth	-10.35
+2014-07-01	large	quality+value+growth	-2.35
+2014-07-01	mid	quality+value+growth	-8.65
+2014-07-01	all cap	quality+value+growth	-9.00
+2014-07-01	samll	quality+momentum+growth	-14.12
+2014-07-01	large	quality+momentum+growth	-3.04
+2014-07-01	mid	quality+momentum+growth	-6.89
+2014-07-01	all cap	quality+momentum+growth	-11.80
+2014-07-01	samll	value+momentum+growth	-16.14
+2014-07-01	large	value+momentum+growth	-3.48
+2014-07-01	mid	value+momentum+growth	-9.17
+2014-07-01	all cap	value+momentum+growth	-17.29
+2014-07-01	samll	krank+quality+value+momentum	-12.63
+2014-07-01	large	krank+quality+value+momentum	-2.88
+2014-07-01	mid	krank+quality+value+momentum	-9.73
+2014-07-01	all cap	krank+quality+value+momentum	-12.58
+2014-07-01	samll	krank+quality+value+growth	-13.06
+2014-07-01	large	krank+quality+value+growth	-2.75
+2014-07-01	mid	krank+quality+value+growth	-9.98
+2014-07-01	all cap	krank+quality+value+growth	-11.57
+2014-07-01	samll	krank+quality+momentum+growth	-14.83
+2014-07-01	large	krank+quality+momentum+growth	-4.35
+2014-07-01	mid	krank+quality+momentum+growth	-9.39
+2014-07-01	all cap	krank+quality+momentum+growth	-14.76
+2014-07-01	samll	krank+value+momentum+growth	-16.07
+2014-07-01	large	krank+value+momentum+growth	-3.61
+2014-07-01	mid	krank+value+momentum+growth	-9.60
+2014-07-01	all cap	krank+value+momentum+growth	-15.69
+2014-07-01	samll	quality+value+momentum+growth	-13.55
+2014-07-01	large	quality+value+momentum+growth	-3.10
+2014-07-01	mid	quality+value+momentum+growth	-8.69
+2014-07-01	all cap	quality+value+momentum+growth	-11.89
+2014-07-01	samll	krank+quality+value+momentum+growth	-14.21
+2014-07-01	large	krank+quality+value+momentum+growth	-3.38
+2014-07-01	mid	krank+quality+value+momentum+growth	-9.49
+2014-07-01	all cap	krank+quality+value+momentum+growth	-14.33
+2014-10-01	samll	krank	-1.58
+2014-10-01	large	krank	-4.18
+2014-10-01	mid	krank	1.43
+2014-10-01	all cap	krank	-0.63
+2014-10-01	samll	quality	14.97
+2014-10-01	large	quality	0.89
+2014-10-01	mid	quality	1.48
+2014-10-01	all cap	quality	13.73
+2014-10-01	samll	value	-4.33
+2014-10-01	large	value	0.78
+2014-10-01	mid	value	7.85
+2014-10-01	all cap	value	-5.24
+2014-10-01	samll	momentum	4.00
+2014-10-01	large	momentum	0.07
+2014-10-01	mid	momentum	4.01
+2014-10-01	all cap	momentum	0.65
+2014-10-01	samll	growth	4.62
+2014-10-01	large	growth	0.47
+2014-10-01	mid	growth	-1.47
+2014-10-01	all cap	growth	1.89
+2014-10-01	samll	krank+quality	-2.81
+2014-10-01	large	krank+quality	-3.90
+2014-10-01	mid	krank+quality	0.42
+2014-10-01	all cap	krank+quality	-0.91
+2014-10-01	samll	krank+value	5.05
+2014-10-01	large	krank+value	-1.23
+2014-10-01	mid	krank+value	4.92
+2014-10-01	all cap	krank+value	0.56
+2014-10-01	samll	krank+momentum	-2.64
+2014-10-01	large	krank+momentum	2.89
+2014-10-01	mid	krank+momentum	3.68
+2014-10-01	all cap	krank+momentum	-6.01
+2014-10-01	samll	krank+growth	-0.84
+2014-10-01	large	krank+growth	-3.29
+2014-10-01	mid	krank+growth	-2.49
+2014-10-01	all cap	krank+growth	-5.66
+2014-10-01	samll	quality+value	13.34
+2014-10-01	large	quality+value	0.04
+2014-10-01	mid	quality+value	10.06
+2014-10-01	all cap	quality+value	11.82
+2014-10-01	samll	quality+momentum	4.64
+2014-10-01	large	quality+momentum	2.29
+2014-10-01	mid	quality+momentum	7.05
+2014-10-01	all cap	quality+momentum	-0.02
+2014-10-01	samll	quality+growth	3.16
+2014-10-01	large	quality+growth	-2.08
+2014-10-01	mid	quality+growth	-0.89
+2014-10-01	all cap	quality+growth	1.14
+2014-10-01	samll	value+momentum	9.36
+2014-10-01	large	value+momentum	3.87
+2014-10-01	mid	value+momentum	8.09
+2014-10-01	all cap	value+momentum	7.16
+2014-10-01	samll	value+growth	-2.14
+2014-10-01	large	value+growth	-1.83
+2014-10-01	mid	value+growth	-1.72
+2014-10-01	all cap	value+growth	-1.31
+2014-10-01	samll	momentum+growth	1.27
+2014-10-01	large	momentum+growth	3.96
+2014-10-01	mid	momentum+growth	3.67
+2014-10-01	all cap	momentum+growth	2.54
+2014-10-01	samll	krank+quality+value	2.44
+2014-10-01	large	krank+quality+value	-1.54
+2014-10-01	mid	krank+quality+value	4.03
+2014-10-01	all cap	krank+quality+value	1.55
+2014-10-01	samll	krank+quality+momentum	-0.28
+2014-10-01	large	krank+quality+momentum	-0.09
+2014-10-01	mid	krank+quality+momentum	4.43
+2014-10-01	all cap	krank+quality+momentum	0.94
+2014-10-01	samll	krank+quality+growth	2.57
+2014-10-01	large	krank+quality+growth	-3.21
+2014-10-01	mid	krank+quality+growth	-1.80
+2014-10-01	all cap	krank+quality+growth	-2.95
+2014-10-01	samll	krank+value+momentum	7.74
+2014-10-01	large	krank+value+momentum	0.22
+2014-10-01	mid	krank+value+momentum	6.20
+2014-10-01	all cap	krank+value+momentum	5.72
+2014-10-01	samll	krank+value+growth	-5.55
+2014-10-01	large	krank+value+growth	-2.54
+2014-10-01	mid	krank+value+growth	-0.50
+2014-10-01	all cap	krank+value+growth	-2.01
+2014-10-01	samll	krank+momentum+growth	-0.92
+2014-10-01	large	krank+momentum+growth	2.46
+2014-10-01	mid	krank+momentum+growth	3.24
+2014-10-01	all cap	krank+momentum+growth	0.06
+2014-10-01	samll	quality+value+momentum	5.12
+2014-10-01	large	quality+value+momentum	0.19
+2014-10-01	mid	quality+value+momentum	8.50
+2014-10-01	all cap	quality+value+momentum	6.12
+2014-10-01	samll	quality+value+growth	-2.57
+2014-10-01	large	quality+value+growth	-1.56
+2014-10-01	mid	quality+value+growth	-0.17
+2014-10-01	all cap	quality+value+growth	2.21
+2014-10-01	samll	quality+momentum+growth	2.52
+2014-10-01	large	quality+momentum+growth	0.88
+2014-10-01	mid	quality+momentum+growth	1.60
+2014-10-01	all cap	quality+momentum+growth	2.95
+2014-10-01	samll	value+momentum+growth	-0.39
+2014-10-01	large	value+momentum+growth	-0.08
+2014-10-01	mid	value+momentum+growth	6.77
+2014-10-01	all cap	value+momentum+growth	0.24
+2014-10-01	samll	krank+quality+value+momentum	2.93
+2014-10-01	large	krank+quality+value+momentum	-2.28
+2014-10-01	mid	krank+quality+value+momentum	5.61
+2014-10-01	all cap	krank+quality+value+momentum	4.05
+2014-10-01	samll	krank+quality+value+growth	-2.08
+2014-10-01	large	krank+quality+value+growth	-2.54
+2014-10-01	mid	krank+quality+value+growth	-0.71
+2014-10-01	all cap	krank+quality+value+growth	-1.95
+2014-10-01	samll	krank+quality+momentum+growth	-3.43
+2014-10-01	large	krank+quality+momentum+growth	0.60
+2014-10-01	mid	krank+quality+momentum+growth	-0.28
+2014-10-01	all cap	krank+quality+momentum+growth	0.12
+2014-10-01	samll	krank+value+momentum+growth	-0.79
+2014-10-01	large	krank+value+momentum+growth	-1.07
+2014-10-01	mid	krank+value+momentum+growth	3.47
+2014-10-01	all cap	krank+value+momentum+growth	-0.18
+2014-10-01	samll	quality+value+momentum+growth	-0.16
+2014-10-01	large	quality+value+momentum+growth	-1.40
+2014-10-01	mid	quality+value+momentum+growth	4.36
+2014-10-01	all cap	quality+value+momentum+growth	0.83
+2014-10-01	samll	krank+quality+value+momentum+growth	-2.34
+2014-10-01	large	krank+quality+value+momentum+growth	-1.66
+2014-10-01	mid	krank+quality+value+momentum+growth	3.75
+2014-10-01	all cap	krank+quality+value+momentum+growth	-0.35
+2015-01-01	samll	krank	0.48
+2015-01-01	large	krank	2.44
+2015-01-01	mid	krank	2.66
+2015-01-01	all cap	krank	1.20
+2015-01-01	samll	quality	3.72
+2015-01-01	large	quality	4.03
+2015-01-01	mid	quality	4.37
+2015-01-01	all cap	quality	3.89
+2015-01-01	samll	value	26.50
+2015-01-01	large	value	1.09
+2015-01-01	mid	value	6.33
+2015-01-01	all cap	value	30.19
+2015-01-01	samll	momentum	-5.04
+2015-01-01	large	momentum	1.03
+2015-01-01	mid	momentum	4.03
+2015-01-01	all cap	momentum	-1.83
+2015-01-01	samll	growth	-2.60
+2015-01-01	large	growth	1.49
+2015-01-01	mid	growth	4.75
+2015-01-01	all cap	growth	0.98
+2015-01-01	samll	krank+quality	7.04
+2015-01-01	large	krank+quality	1.35
+2015-01-01	mid	krank+quality	4.60
+2015-01-01	all cap	krank+quality	5.35
+2015-01-01	samll	krank+value	1.76
+2015-01-01	large	krank+value	1.12
+2015-01-01	mid	krank+value	2.79
+2015-01-01	all cap	krank+value	3.74
+2015-01-01	samll	krank+momentum	-3.33
+2015-01-01	large	krank+momentum	2.15
+2015-01-01	mid	krank+momentum	3.42
+2015-01-01	all cap	krank+momentum	-2.23
+2015-01-01	samll	krank+growth	4.15
+2015-01-01	large	krank+growth	0.70
+2015-01-01	mid	krank+growth	4.24
+2015-01-01	all cap	krank+growth	5.33
+2015-01-01	samll	quality+value	4.25
+2015-01-01	large	quality+value	2.40
+2015-01-01	mid	quality+value	5.66
+2015-01-01	all cap	quality+value	6.09
+2015-01-01	samll	quality+momentum	1.15
+2015-01-01	large	quality+momentum	2.25
+2015-01-01	mid	quality+momentum	3.83
+2015-01-01	all cap	quality+momentum	-0.11
+2015-01-01	samll	quality+growth	6.76
+2015-01-01	large	quality+growth	1.31
+2015-01-01	mid	quality+growth	5.03
+2015-01-01	all cap	quality+growth	5.05
+2015-01-01	samll	value+momentum	2.75
+2015-01-01	large	value+momentum	1.24
+2015-01-01	mid	value+momentum	2.93
+2015-01-01	all cap	value+momentum	1.29
+2015-01-01	samll	value+growth	0.19
+2015-01-01	large	value+growth	0.79
+2015-01-01	mid	value+growth	7.01
+2015-01-01	all cap	value+growth	0.98
+2015-01-01	samll	momentum+growth	-0.20
+2015-01-01	large	momentum+growth	0.46
+2015-01-01	mid	momentum+growth	4.57
+2015-01-01	all cap	momentum+growth	0.52
+2015-01-01	samll	krank+quality+value	7.28
+2015-01-01	large	krank+quality+value	2.63
+2015-01-01	mid	krank+quality+value	7.32
+2015-01-01	all cap	krank+quality+value	5.08
+2015-01-01	samll	krank+quality+momentum	6.44
+2015-01-01	large	krank+quality+momentum	0.84
+2015-01-01	mid	krank+quality+momentum	3.76
+2015-01-01	all cap	krank+quality+momentum	3.87
+2015-01-01	samll	krank+quality+growth	9.47
+2015-01-01	large	krank+quality+growth	0.17
+2015-01-01	mid	krank+quality+growth	4.72
+2015-01-01	all cap	krank+quality+growth	6.60
+2015-01-01	samll	krank+value+momentum	2.80
+2015-01-01	large	krank+value+momentum	1.90
+2015-01-01	mid	krank+value+momentum	3.08
+2015-01-01	all cap	krank+value+momentum	1.63
+2015-01-01	samll	krank+value+growth	3.76
+2015-01-01	large	krank+value+growth	1.27
+2015-01-01	mid	krank+value+growth	5.08
+2015-01-01	all cap	krank+value+growth	1.74
+2015-01-01	samll	krank+momentum+growth	3.01
+2015-01-01	large	krank+momentum+growth	0.18
+2015-01-01	mid	krank+momentum+growth	3.56
+2015-01-01	all cap	krank+momentum+growth	2.72
+2015-01-01	samll	quality+value+momentum	1.88
+2015-01-01	large	quality+value+momentum	3.23
+2015-01-01	mid	quality+value+momentum	4.24
+2015-01-01	all cap	quality+value+momentum	4.05
+2015-01-01	samll	quality+value+growth	4.17
+2015-01-01	large	quality+value+growth	1.59
+2015-01-01	mid	quality+value+growth	6.24
+2015-01-01	all cap	quality+value+growth	1.86
+2015-01-01	samll	quality+momentum+growth	7.34
+2015-01-01	large	quality+momentum+growth	2.14
+2015-01-01	mid	quality+momentum+growth	5.63
+2015-01-01	all cap	quality+momentum+growth	5.90
+2015-01-01	samll	value+momentum+growth	1.83
+2015-01-01	large	value+momentum+growth	3.17
+2015-01-01	mid	value+momentum+growth	4.85
+2015-01-01	all cap	value+momentum+growth	2.28
+2015-01-01	samll	krank+quality+value+momentum	6.74
+2015-01-01	large	krank+quality+value+momentum	2.06
+2015-01-01	mid	krank+quality+value+momentum	3.14
+2015-01-01	all cap	krank+quality+value+momentum	5.42
+2015-01-01	samll	krank+quality+value+growth	5.81
+2015-01-01	large	krank+quality+value+growth	1.70
+2015-01-01	mid	krank+quality+value+growth	6.71
+2015-01-01	all cap	krank+quality+value+growth	5.58
+2015-01-01	samll	krank+quality+momentum+growth	7.33
+2015-01-01	large	krank+quality+momentum+growth	1.51
+2015-01-01	mid	krank+quality+momentum+growth	4.15
+2015-01-01	all cap	krank+quality+momentum+growth	3.48
+2015-01-01	samll	krank+value+momentum+growth	5.33
+2015-01-01	large	krank+value+momentum+growth	2.14
+2015-01-01	mid	krank+value+momentum+growth	5.06
+2015-01-01	all cap	krank+value+momentum+growth	2.99
+2015-01-01	samll	quality+value+momentum+growth	5.26
+2015-01-01	large	quality+value+momentum+growth	2.84
+2015-01-01	mid	quality+value+momentum+growth	5.00
+2015-01-01	all cap	quality+value+momentum+growth	6.91
+2015-01-01	samll	krank+quality+value+momentum+growth	7.29
+2015-01-01	large	krank+quality+value+momentum+growth	1.85
+2015-01-01	mid	krank+quality+value+momentum+growth	4.70
+2015-01-01	all cap	krank+quality+value+momentum+growth	5.32
+2015-04-01	samll	krank	1.61
+2015-04-01	large	krank	0.24
+2015-04-01	mid	krank	1.79
+2015-04-01	all cap	krank	-2.84
+2015-04-01	samll	quality	-3.68
+2015-04-01	large	quality	0.57
+2015-04-01	mid	quality	1.81
+2015-04-01	all cap	quality	-2.01
+2015-04-01	samll	value	4.50
+2015-04-01	large	value	-2.15
+2015-04-01	mid	value	-0.18
+2015-04-01	all cap	value	5.07
+2015-04-01	samll	momentum	-4.30
+2015-04-01	large	momentum	-1.03
+2015-04-01	mid	momentum	-0.30
+2015-04-01	all cap	momentum	0.80
+2015-04-01	samll	growth	-5.03
+2015-04-01	large	growth	0.45
+2015-04-01	mid	growth	1.25
+2015-04-01	all cap	growth	-3.48
+2015-04-01	samll	krank+quality	-2.12
+2015-04-01	large	krank+quality	1.23
+2015-04-01	mid	krank+quality	1.82
+2015-04-01	all cap	krank+quality	-0.12
+2015-04-01	samll	krank+value	4.12
+2015-04-01	large	krank+value	-0.59
+2015-04-01	mid	krank+value	1.21
+2015-04-01	all cap	krank+value	3.43
+2015-04-01	samll	krank+momentum	-0.46
+2015-04-01	large	krank+momentum	1.80
+2015-04-01	mid	krank+momentum	-2.36
+2015-04-01	all cap	krank+momentum	-2.58
+2015-04-01	samll	krank+growth	-3.97
+2015-04-01	large	krank+growth	1.18
+2015-04-01	mid	krank+growth	3.24
+2015-04-01	all cap	krank+growth	0.05
+2015-04-01	samll	quality+value	1.10
+2015-04-01	large	quality+value	0.21
+2015-04-01	mid	quality+value	-1.00
+2015-04-01	all cap	quality+value	0.30
+2015-04-01	samll	quality+momentum	-5.54
+2015-04-01	large	quality+momentum	2.58
+2015-04-01	mid	quality+momentum	-1.12
+2015-04-01	all cap	quality+momentum	-2.90
+2015-04-01	samll	quality+growth	-2.08
+2015-04-01	large	quality+growth	0.04
+2015-04-01	mid	quality+growth	2.71
+2015-04-01	all cap	quality+growth	-3.53
+2015-04-01	samll	value+momentum	3.65
+2015-04-01	large	value+momentum	-1.35
+2015-04-01	mid	value+momentum	-2.20
+2015-04-01	all cap	value+momentum	3.46
+2015-04-01	samll	value+growth	4.06
+2015-04-01	large	value+growth	1.80
+2015-04-01	mid	value+growth	-0.39
+2015-04-01	all cap	value+growth	1.40
+2015-04-01	samll	momentum+growth	0.76
+2015-04-01	large	momentum+growth	1.79
+2015-04-01	mid	momentum+growth	-0.30
+2015-04-01	all cap	momentum+growth	-0.82
+2015-04-01	samll	krank+quality+value	3.13
+2015-04-01	large	krank+quality+value	0.39
+2015-04-01	mid	krank+quality+value	0.41
+2015-04-01	all cap	krank+quality+value	0.28
+2015-04-01	samll	krank+quality+momentum	-1.09
+2015-04-01	large	krank+quality+momentum	2.21
+2015-04-01	mid	krank+quality+momentum	1.17
+2015-04-01	all cap	krank+quality+momentum	-6.19
+2015-04-01	samll	krank+quality+growth	-2.53
+2015-04-01	large	krank+quality+growth	0.30
+2015-04-01	mid	krank+quality+growth	2.32
+2015-04-01	all cap	krank+quality+growth	-1.44
+2015-04-01	samll	krank+value+momentum	2.41
+2015-04-01	large	krank+value+momentum	0.51
+2015-04-01	mid	krank+value+momentum	-0.86
+2015-04-01	all cap	krank+value+momentum	0.24
+2015-04-01	samll	krank+value+growth	4.12
+2015-04-01	large	krank+value+growth	1.94
+2015-04-01	mid	krank+value+growth	1.82
+2015-04-01	all cap	krank+value+growth	1.08
+2015-04-01	samll	krank+momentum+growth	-2.11
+2015-04-01	large	krank+momentum+growth	2.19
+2015-04-01	mid	krank+momentum+growth	1.27
+2015-04-01	all cap	krank+momentum+growth	-2.69
+2015-04-01	samll	quality+value+momentum	1.62
+2015-04-01	large	quality+value+momentum	1.15
+2015-04-01	mid	quality+value+momentum	-1.13
+2015-04-01	all cap	quality+value+momentum	1.39
+2015-04-01	samll	quality+value+growth	1.71
+2015-04-01	large	quality+value+growth	1.49
+2015-04-01	mid	quality+value+growth	0.17
+2015-04-01	all cap	quality+value+growth	0.00
+2015-04-01	samll	quality+momentum+growth	-0.72
+2015-04-01	large	quality+momentum+growth	1.78
+2015-04-01	mid	quality+momentum+growth	1.47
+2015-04-01	all cap	quality+momentum+growth	-2.34
+2015-04-01	samll	value+momentum+growth	-1.85
+2015-04-01	large	value+momentum+growth	2.05
+2015-04-01	mid	value+momentum+growth	-1.38
+2015-04-01	all cap	value+momentum+growth	-1.96
+2015-04-01	samll	krank+quality+value+momentum	1.44
+2015-04-01	large	krank+quality+value+momentum	1.25
+2015-04-01	mid	krank+quality+value+momentum	2.22
+2015-04-01	all cap	krank+quality+value+momentum	0.22
+2015-04-01	samll	krank+quality+value+growth	1.19
+2015-04-01	large	krank+quality+value+growth	1.19
+2015-04-01	mid	krank+quality+value+growth	0.55
+2015-04-01	all cap	krank+quality+value+growth	2.46
+2015-04-01	samll	krank+quality+momentum+growth	0.08
+2015-04-01	large	krank+quality+momentum+growth	2.29
+2015-04-01	mid	krank+quality+momentum+growth	2.57
+2015-04-01	all cap	krank+quality+momentum+growth	-1.18
+2015-04-01	samll	krank+value+momentum+growth	1.71
+2015-04-01	large	krank+value+momentum+growth	1.78
+2015-04-01	mid	krank+value+momentum+growth	0.55
+2015-04-01	all cap	krank+value+momentum+growth	-1.10
+2015-04-01	samll	quality+value+momentum+growth	1.52
+2015-04-01	large	quality+value+momentum+growth	1.86
+2015-04-01	mid	quality+value+momentum+growth	0.72
+2015-04-01	all cap	quality+value+momentum+growth	-1.07
+2015-04-01	samll	krank+quality+value+momentum+growth	0.26
+2015-04-01	large	krank+quality+value+momentum+growth	2.21
+2015-04-01	mid	krank+quality+value+momentum+growth	2.18
+2015-04-01	all cap	krank+quality+value+momentum+growth	1.23
+2015-07-01	samll	krank	3.10
+2015-07-01	large	krank	0.95
+2015-07-01	mid	krank	3.81
+2015-07-01	all cap	krank	6.99
+2015-07-01	samll	quality	-0.05
+2015-07-01	large	quality	-0.96
+2015-07-01	mid	quality	-2.84
+2015-07-01	all cap	quality	-2.23
+2015-07-01	samll	value	-7.37
+2015-07-01	large	value	0.14
+2015-07-01	mid	value	-6.14
+2015-07-01	all cap	value	-6.66
+2015-07-01	samll	momentum	-17.43
+2015-07-01	large	momentum	-6.82
+2015-07-01	mid	momentum	-16.72
+2015-07-01	all cap	momentum	-19.43
+2015-07-01	samll	growth	-14.71
+2015-07-01	large	growth	-1.96
+2015-07-01	mid	growth	-1.65
+2015-07-01	all cap	growth	-11.93
+2015-07-01	samll	krank+quality	0.75
+2015-07-01	large	krank+quality	1.14
+2015-07-01	mid	krank+quality	3.29
+2015-07-01	all cap	krank+quality	8.62
+2015-07-01	samll	krank+value	5.49
+2015-07-01	large	krank+value	0.97
+2015-07-01	mid	krank+value	2.80
+2015-07-01	all cap	krank+value	4.22
+2015-07-01	samll	krank+momentum	-5.31
+2015-07-01	large	krank+momentum	-1.25
+2015-07-01	mid	krank+momentum	-1.38
+2015-07-01	all cap	krank+momentum	-1.67
+2015-07-01	samll	krank+growth	2.83
+2015-07-01	large	krank+growth	1.39
+2015-07-01	mid	krank+growth	4.18
+2015-07-01	all cap	krank+growth	4.60
+2015-07-01	samll	quality+value	-2.01
+2015-07-01	large	quality+value	0.96
+2015-07-01	mid	quality+value	2.01
+2015-07-01	all cap	quality+value	-0.51
+2015-07-01	samll	quality+momentum	-10.58
+2015-07-01	large	quality+momentum	-1.74
+2015-07-01	mid	quality+momentum	-1.85
+2015-07-01	all cap	quality+momentum	-6.85
+2015-07-01	samll	quality+growth	-3.40
+2015-07-01	large	quality+growth	1.14
+2015-07-01	mid	quality+growth	0.29
+2015-07-01	all cap	quality+growth	2.54
+2015-07-01	samll	value+momentum	-14.00
+2015-07-01	large	value+momentum	-0.67
+2015-07-01	mid	value+momentum	-3.18
+2015-07-01	all cap	value+momentum	-14.05
+2015-07-01	samll	value+growth	-7.90
+2015-07-01	large	value+growth	0.38
+2015-07-01	mid	value+growth	-2.52
+2015-07-01	all cap	value+growth	-2.37
+2015-07-01	samll	momentum+growth	-10.62
+2015-07-01	large	momentum+growth	-2.85
+2015-07-01	mid	momentum+growth	-4.99
+2015-07-01	all cap	momentum+growth	-8.74
+2015-07-01	samll	krank+quality+value	2.01
+2015-07-01	large	krank+quality+value	1.96
+2015-07-01	mid	krank+quality+value	5.33
+2015-07-01	all cap	krank+quality+value	4.02
+2015-07-01	samll	krank+quality+momentum	-2.46
+2015-07-01	large	krank+quality+momentum	-0.53
+2015-07-01	mid	krank+quality+momentum	0.49
+2015-07-01	all cap	krank+quality+momentum	0.11
+2015-07-01	samll	krank+quality+growth	1.78
+2015-07-01	large	krank+quality+growth	1.61
+2015-07-01	mid	krank+quality+growth	3.99
+2015-07-01	all cap	krank+quality+growth	6.44
+2015-07-01	samll	krank+value+momentum	2.20
+2015-07-01	large	krank+value+momentum	0.60
+2015-07-01	mid	krank+value+momentum	-0.80
+2015-07-01	all cap	krank+value+momentum	5.72
+2015-07-01	samll	krank+value+growth	8.45
+2015-07-01	large	krank+value+growth	2.20
+2015-07-01	mid	krank+value+growth	2.16
+2015-07-01	all cap	krank+value+growth	11.69
+2015-07-01	samll	krank+momentum+growth	-1.66
+2015-07-01	large	krank+momentum+growth	0.46
+2015-07-01	mid	krank+momentum+growth	0.29
+2015-07-01	all cap	krank+momentum+growth	4.82
+2015-07-01	samll	quality+value+momentum	-9.74
+2015-07-01	large	quality+value+momentum	0.94
+2015-07-01	mid	quality+value+momentum	1.10
+2015-07-01	all cap	quality+value+momentum	-7.86
+2015-07-01	samll	quality+value+growth	-9.03
+2015-07-01	large	quality+value+growth	2.23
+2015-07-01	mid	quality+value+growth	1.77
+2015-07-01	all cap	quality+value+growth	-4.34
+2015-07-01	samll	quality+momentum+growth	-4.58
+2015-07-01	large	quality+momentum+growth	-0.10
+2015-07-01	mid	quality+momentum+growth	-1.03
+2015-07-01	all cap	quality+momentum+growth	-2.38
+2015-07-01	samll	value+momentum+growth	-9.97
+2015-07-01	large	value+momentum+growth	-0.75
+2015-07-01	mid	value+momentum+growth	-0.70
+2015-07-01	all cap	value+momentum+growth	-5.28
+2015-07-01	samll	krank+quality+value+momentum	-0.28
+2015-07-01	large	krank+quality+value+momentum	0.41
+2015-07-01	mid	krank+quality+value+momentum	2.38
+2015-07-01	all cap	krank+quality+value+momentum	4.66
+2015-07-01	samll	krank+quality+value+growth	3.65
+2015-07-01	large	krank+quality+value+growth	2.17
+2015-07-01	mid	krank+quality+value+growth	3.96
+2015-07-01	all cap	krank+quality+value+growth	10.83
+2015-07-01	samll	krank+quality+momentum+growth	1.12
+2015-07-01	large	krank+quality+momentum+growth	2.09
+2015-07-01	mid	krank+quality+momentum+growth	1.07
+2015-07-01	all cap	krank+quality+momentum+growth	4.96
+2015-07-01	samll	krank+value+momentum+growth	3.28
+2015-07-01	large	krank+value+momentum+growth	0.97
+2015-07-01	mid	krank+value+momentum+growth	2.04
+2015-07-01	all cap	krank+value+momentum+growth	7.73
+2015-07-01	samll	quality+value+momentum+growth	-6.26
+2015-07-01	large	quality+value+momentum+growth	0.16
+2015-07-01	mid	quality+value+momentum+growth	1.34
+2015-07-01	all cap	quality+value+momentum+growth	-1.39
+2015-07-01	samll	krank+quality+value+momentum+growth	-1.87
+2015-07-01	large	krank+quality+value+momentum+growth	1.18
+2015-07-01	mid	krank+quality+value+momentum+growth	2.98
+2015-07-01	all cap	krank+quality+value+momentum+growth	5.44
+2015-10-01	samll	krank	9.95
+2015-10-01	large	krank	4.16
+2015-10-01	mid	krank	4.89
+2015-10-01	all cap	krank	10.28
+2015-10-01	samll	quality	8.54
+2015-10-01	large	quality	4.89
+2015-10-01	mid	quality	3.89
+2015-10-01	all cap	quality	7.31
+2015-10-01	samll	value	-2.82
+2015-10-01	large	value	7.42
+2015-10-01	mid	value	6.89
+2015-10-01	all cap	value	15.09
+2015-10-01	samll	momentum	-5.41
+2015-10-01	large	momentum	3.74
+2015-10-01	mid	momentum	4.27
+2015-10-01	all cap	momentum	-4.25
+2015-10-01	samll	growth	0.98
+2015-10-01	large	growth	1.32
+2015-10-01	mid	growth	1.11
+2015-10-01	all cap	growth	0.69
+2015-10-01	samll	krank+quality	15.26
+2015-10-01	large	krank+quality	4.93
+2015-10-01	mid	krank+quality	2.23
+2015-10-01	all cap	krank+quality	14.67
+2015-10-01	samll	krank+value	4.05
+2015-10-01	large	krank+value	4.86
+2015-10-01	mid	krank+value	8.75
+2015-10-01	all cap	krank+value	4.09
+2015-10-01	samll	krank+momentum	2.60
+2015-10-01	large	krank+momentum	3.96
+2015-10-01	mid	krank+momentum	5.26
+2015-10-01	all cap	krank+momentum	0.99
+2015-10-01	samll	krank+growth	0.31
+2015-10-01	large	krank+growth	3.96
+2015-10-01	mid	krank+growth	3.27
+2015-10-01	all cap	krank+growth	0.54
+2015-10-01	samll	quality+value	0.82
+2015-10-01	large	quality+value	5.49
+2015-10-01	mid	quality+value	5.74
+2015-10-01	all cap	quality+value	1.87
+2015-10-01	samll	quality+momentum	10.61
+2015-10-01	large	quality+momentum	5.53
+2015-10-01	mid	quality+momentum	3.82
+2015-10-01	all cap	quality+momentum	9.23
+2015-10-01	samll	quality+growth	1.60
+2015-10-01	large	quality+growth	4.49
+2015-10-01	mid	quality+growth	5.22
+2015-10-01	all cap	quality+growth	4.97
+2015-10-01	samll	value+momentum	5.64
+2015-10-01	large	value+momentum	7.47
+2015-10-01	mid	value+momentum	6.69
+2015-10-01	all cap	value+momentum	6.46
+2015-10-01	samll	value+growth	0.61
+2015-10-01	large	value+growth	3.80
+2015-10-01	mid	value+growth	7.43
+2015-10-01	all cap	value+growth	0.09
+2015-10-01	samll	momentum+growth	3.03
+2015-10-01	large	momentum+growth	1.59
+2015-10-01	mid	momentum+growth	3.30
+2015-10-01	all cap	momentum+growth	0.72
+2015-10-01	samll	krank+quality+value	6.18
+2015-10-01	large	krank+quality+value	5.44
+2015-10-01	mid	krank+quality+value	6.95
+2015-10-01	all cap	krank+quality+value	2.73
+2015-10-01	samll	krank+quality+momentum	4.47
+2015-10-01	large	krank+quality+momentum	4.88
+2015-10-01	mid	krank+quality+momentum	3.17
+2015-10-01	all cap	krank+quality+momentum	7.48
+2015-10-01	samll	krank+quality+growth	5.83
+2015-10-01	large	krank+quality+growth	4.96
+2015-10-01	mid	krank+quality+growth	3.63
+2015-10-01	all cap	krank+quality+growth	5.04
+2015-10-01	samll	krank+value+momentum	1.06
+2015-10-01	large	krank+value+momentum	4.45
+2015-10-01	mid	krank+value+momentum	5.85
+2015-10-01	all cap	krank+value+momentum	3.68
+2015-10-01	samll	krank+value+growth	6.27
+2015-10-01	large	krank+value+growth	2.56
+2015-10-01	mid	krank+value+growth	6.07
+2015-10-01	all cap	krank+value+growth	4.47
+2015-10-01	samll	krank+momentum+growth	1.91
+2015-10-01	large	krank+momentum+growth	4.03
+2015-10-01	mid	krank+momentum+growth	4.47
+2015-10-01	all cap	krank+momentum+growth	-2.37
+2015-10-01	samll	quality+value+momentum	9.57
+2015-10-01	large	quality+value+momentum	6.44
+2015-10-01	mid	quality+value+momentum	7.60
+2015-10-01	all cap	quality+value+momentum	8.08
+2015-10-01	samll	quality+value+growth	2.58
+2015-10-01	large	quality+value+growth	4.95
+2015-10-01	mid	quality+value+growth	4.19
+2015-10-01	all cap	quality+value+growth	-0.19
+2015-10-01	samll	quality+momentum+growth	7.78
+2015-10-01	large	quality+momentum+growth	4.10
+2015-10-01	mid	quality+momentum+growth	5.36
+2015-10-01	all cap	quality+momentum+growth	4.37
+2015-10-01	samll	value+momentum+growth	3.09
+2015-10-01	large	value+momentum+growth	4.51
+2015-10-01	mid	value+momentum+growth	5.14
+2015-10-01	all cap	value+momentum+growth	3.40
+2015-10-01	samll	krank+quality+value+momentum	6.09
+2015-10-01	large	krank+quality+value+momentum	4.89
+2015-10-01	mid	krank+quality+value+momentum	5.59
+2015-10-01	all cap	krank+quality+value+momentum	2.46
+2015-10-01	samll	krank+quality+value+growth	6.41
+2015-10-01	large	krank+quality+value+growth	5.71
+2015-10-01	mid	krank+quality+value+growth	5.49
+2015-10-01	all cap	krank+quality+value+growth	5.24
+2015-10-01	samll	krank+quality+momentum+growth	4.92
+2015-10-01	large	krank+quality+momentum+growth	5.41
+2015-10-01	mid	krank+quality+momentum+growth	3.33
+2015-10-01	all cap	krank+quality+momentum+growth	1.90
+2015-10-01	samll	krank+value+momentum+growth	1.48
+2015-10-01	large	krank+value+momentum+growth	4.63
+2015-10-01	mid	krank+value+momentum+growth	5.63
+2015-10-01	all cap	krank+value+momentum+growth	3.37
+2015-10-01	samll	quality+value+momentum+growth	5.56
+2015-10-01	large	quality+value+momentum+growth	5.20
+2015-10-01	mid	quality+value+momentum+growth	5.86
+2015-10-01	all cap	quality+value+momentum+growth	4.79
+2015-10-01	samll	krank+quality+value+momentum+growth	4.76
+2015-10-01	large	krank+quality+value+momentum+growth	5.74
+2015-10-01	mid	krank+quality+value+momentum+growth	5.88
+2015-10-01	all cap	krank+quality+value+momentum+growth	2.64

@@ -1,0 +1,4 @@
+preprocess:
+    (1)去掉空余的数据
+todo_portfolio.py:生成所有组合的所有结果
+count.py:汇总抽取想要的信息
